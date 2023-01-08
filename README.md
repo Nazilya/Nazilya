@@ -20,7 +20,7 @@
   <code><img width="5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
 </p>
 
-
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazilya&show_icons=true&theme=transparent)
 
