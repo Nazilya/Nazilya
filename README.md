@@ -24,7 +24,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazilya&show_icons=true&theme=transparent)
 
-<img width="3%" title="Telegram" src="./images/icons/Telegram.svg"></a>
+<a href="https://t.me/NazilyaMullagildina"><img width="2%" title="Telegram" src="./images/icons/Telegram.svg"></a>
 [NazilyaMullagildina](https://t.me/NazilyaMullagildina) </br>
 
 
