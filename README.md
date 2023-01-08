@@ -24,8 +24,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazilya&show_icons=true&theme=transparent)
 
-<a href="https://t.me/NazilyaMullagildina"><img width="3%" title="Telegram" src="./images/icons/Telegram.svg"></a>
-[Nazilya](https://t.me/NazilyaMullagildina) </br>
+<img width="3%" title="Telegram" src="./images/icons/Telegram.svg"></a>
+[NazilyaMullagildina](https://t.me/NazilyaMullagildina) </br>
 
 
 #### С моим резюме можно ознакомиться:
