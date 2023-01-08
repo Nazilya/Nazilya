@@ -24,12 +24,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazilya&show_icons=true&theme=transparent)
 
-<a href="https://t.me/NazilyaMullagildina"><img src="/icons/Telegram.svg" width="50" height="50"  alt="Telegram"/></a>
+<a href="https://t.me/NazilyaMullagildina"><img width="5%" title="Telegram" src="./images/icons/Telegram.svg"></a>
 [Nazilya](https://t.me/NazilyaMullagildina) </br>
 
 
 #### С моим резюме можно ознакомиться:
-<a href="https://ufa.hh.ru/resume/93882db2ff09136ca10039ed1f4c716f66454b"><img src="/icons/HH.png" width="50" height="50"  alt="hh"/></a>
+<a href="https://ufa.hh.ru/resume/93882db2ff09136ca10039ed1f4c716f66454b"><img width="5%" title="HH" src="./images/icons/HH.png></a>
 
 <!--
 **Nazilya/Nazilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
