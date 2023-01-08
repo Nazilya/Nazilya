@@ -29,7 +29,7 @@
 
 
 #### С моим резюме можно ознакомиться:
-<a href="https://ufa.hh.ru/resume/93882db2ff09136ca10039ed1f4c716f66454b"><img width="5%" title="HH" src="./images/icons/HH.png></a>
+<a href="https://ufa.hh.ru/resume/93882db2ff09136ca10039ed1f4c716f66454b"><img src="/icons/HH.png" width="50" height="50"  alt="HH"/></a>
 
 <!--
 **Nazilya/Nazilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
