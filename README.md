@@ -13,7 +13,6 @@
   <code><img width="5%" title="Gradle" src="./images/icons/gradle-logo.svg"></code>
   <code><img width="5%" title="Maven" src="./images/icons/maven.png"></code>
   <code><img width="5%" title="Selenium" src="./images/icons/selenium.png"></code>
-  <code><img width="5%" title="Selenium" src="./images/icons/selenium2.png"></code>
   <code><img width="5%" title="Selenide" src="./images/icons/selenide-logo.svg"></code>
   <code><img width="5%" title="REST-Assured" src="./images/icons/rest-assured-logo.svg"></code>
   <code><img width="5%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
