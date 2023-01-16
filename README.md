@@ -11,14 +11,6 @@
 </p> 
 
 <p  align="center">
-  <code><img width="5%" title="UGATU" src="./images/icons/ugatu.jpg"></code>
-  <code><img width="5%" title="FIRT" src="./images/icons/firt.jpg"></code>
-  <code><img width="5%" title="BGU" src="./images/icons/bgu.gif"></code>
-  <code><img width="5%" title="BGU" src="./images/icons/gb.png"></code>
-  <code><img width="5%" title="BGU" src="./images/icons/qa-guru.jpg"></code>
-</p>
----
-<p  align="center">
   <code><img width="5%" title="Atlassian Jira" src="./images/icons/jira-logo.svg"></code>
   <code><img width="5%" title="Github" src="./images/icons/GitHub.svg"></code>
   <code><img width="5%" title="Java" src="./images/icons/java-logo.svg"></code>
