@@ -8,8 +8,9 @@
 
 <p  align="center">
   <code><img width="5%" title="Java" src="./images/icons/java-logo.svg"></code>
-  <code><img width="5%" title="JUnit5" src="./images/icons/junit5-logo.svg"></code>
   <code><img width="5%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
+  <a href="https://github.com/"><img src="images/logo/GitHub.svg" width="50" height="50"  alt="Github"/></a>
+  <code><img width="5%" title="JUnit5" src="./images/icons/junit5-logo.svg"></code>
   <code><img width="5%" title="Gradle" src="./images/icons/gradle-logo.svg"></code>
   <code><img width="5%" title="Maven" src="./images/icons/maven.png"></code>
   <code><img width="5%" title="Selenium" src="./images/icons/selenium.png"></code>
