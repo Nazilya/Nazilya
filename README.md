@@ -30,9 +30,6 @@
   <code><img width="5%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
   
 ## Дипломный проект
-:link: Тестовый проект: <a target="_blank" href="https://github.com/Nazilya/diplom-ui-rabota-sber">diplom-ui-rabota-sber</a></br></br>
-![This is an image](./images/icons/jira-logo.svg)![This is an image](./images/icons/GitHub.svg)![This is an image](./images/icons/java-logo.svg)![This is an image](./images/icons/IDEA-logo.svg)![This is an image](./images/icons/junit5-logo.svg)![This is an image](./images/icons/maven.png)![This is an image](./images/icons/gradle-logo.svg)![This is an image](./images/icons/selenium.png)![This is an image](./images/icons/selenide-logo.svg)![This is an image](./images/icons/rest-assured-logo.svg)![This is an image](./images/icons/allure-Report-logo.svg)![This is an image](./images/icons/allure-Report-logo.svg)![This is an image](./images/icons/allure-ee-logo.svg)![This is an image](./images/icons/selenoid-logo.svg)![This is an image](./images/icons/jenkins-logo.svg)![This is an image](./images/icons/docker-original.svg)![This is an image](./images/icons/androidstudio.svg)![This is an image](./images/icons/appium.svg)![This is an image](./images/icons/appium-inspector.png)![This is an image](./images/icons/browserstack.svg)</br></br>
-
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
 ## Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/Nazilya/diplom-ui-rabota-sber">diplom-ui-rabota-sber</a></br></br>
