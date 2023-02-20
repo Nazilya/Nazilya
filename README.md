@@ -9,27 +9,27 @@
 <p>В настоящее время изучаю автоматизацию тестирования. Прохожу обучение в QA.GURU – в школе инженеров по автоматизации тестирования на Java.</p> 
 
 <p  align="center">
-  <code><img width="3%" title="Atlassian Jira" src="./images/icons/jira-logo.svg"></code>
-  <code><img width="3%" title="Github" src="./images/icons/GitHub.svg"></code>
-  <code><img width="3%" title="Java" src="./images/icons/java-logo.svg"></code>
-  <code><img width="3%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
-  <code><img width="3%" title="JUnit5" src="./images/icons/junit5-logo.svg"></code>
-  <code><img width="3%" title="Gradle" src="./images/icons/gradle-logo.svg"></code>
-  <code><img width="3%" title="Maven" src="./images/icons/maven.png"></code>
-  <code><img width="3%" title="Selenium" src="./images/icons/selenium.png"></code>
-  <code><img width="3%" title="Selenide" src="./images/icons/selenide-logo.svg"></code>
-  <code><img width="3%" title="REST-Assured" src="./images/icons/rest-assured-logo.svg"></code>
-  <code><img width="3%" title="Allure Report" src="./images/icons/allure-Report-logo.svg"></code>
-  <code><img width="3%" title="Allure TestOps" src="./images/icons/allure-ee-logo.svg"></code>
-  <code><img width="3%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
-  <code><img width="3%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
-  <code><img width="3%" title="Docker" src="./images/icons/docker-original.svg"></code>
-  <code><img width="3%" title="AndroidStudio" src="./images/icons/androidstudio.svg"></code>
-  <code><img width="3%" title="Appium" src="./images/icons/appium.svg"></code>
-  <code><img width="3%" title="Appium Inspector" src="./images/icons/appium-inspector.png"></code>
-  <code><img width="3%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
+  <code><img width="3.5%" title="Atlassian Jira" src="./images/icons/jira-logo.svg"></code>
+  <code><img width="3.5%" title="Github" src="./images/icons/GitHub.svg"></code>
+  <code><img width="3.5%" title="Java" src="./images/icons/java-logo.svg"></code>
+  <code><img width="3.5%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
+  <code><img width="3.5%" title="JUnit5" src="./images/icons/junit5-logo.svg"></code>
+  <code><img width="3.5%" title="Gradle" src="./images/icons/gradle-logo.svg"></code>
+  <code><img width="3.5%" title="Maven" src="./images/icons/maven.png"></code>
+  <code><img width="3.5%" title="Selenium" src="./images/icons/selenium.png"></code>
+  <code><img width="3.5%" title="Selenide" src="./images/icons/selenide-logo.svg"></code>
+  <code><img width="3.5%" title="REST-Assured" src="./images/icons/rest-assured-logo.svg"></code>
+  <code><img width="3.5%" title="Allure Report" src="./images/icons/allure-Report-logo.svg"></code>
+  <code><img width="3.5%" title="Allure TestOps" src="./images/icons/allure-ee-logo.svg"></code>
+  <code><img width="3.5%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
+  <code><img width="3.5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
+  <code><img width="3.5%" title="Docker" src="./images/icons/docker-original.svg"></code>
+  <code><img width="3.5%" title="AndroidStudio" src="./images/icons/androidstudio.svg"></code>
+  <code><img width="3.5%" title="Appium" src="./images/icons/appium.svg"></code>
+  <code><img width="3.5%" title="Appium Inspector" src="./images/icons/appium-inspector.png"></code>
+  <code><img width="3.5%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
 
-## Дипломный проект
+#### Дипломный проект
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
 
 <table width="100%" border='0'>
