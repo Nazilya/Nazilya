@@ -29,7 +29,7 @@
   <code><img width="3.5%" title="Appium Inspector" src="./images/icons/appium-inspector.png"></code>
   <code><img width="3.5%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
 
-#### Дипломный проект
+### Дипломный проект
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
 
 <table width="100%" border='0'>
@@ -38,6 +38,7 @@
     <td valign="middle">Тестирование UI</br>проект: <a target="_blank" href="https://github.com/Nazilya/diplom-ui-rabota-sber">diplom-ui-rabota-sber</a></td><td valign="middle">- Page Object</br>- Параметризованные тесты</br>- Параметризованная сборка</br>- Тестпланы авто- и ручного тестирования</br>- Интеграция с Allure-TestOps, с Jira</td></tr>
     <tr> <td valign="middle">Тестирование REST API</br>проект: <a target="_blank" href="https://github.com/Nazilya/diplom-api-tinkoff">diplom-api-tinkoff</a></td><td valign="middle">- Модели получаемых данных описаны с помощью библиотеки Lombok</br>- Использованы спецификации</br>- Сериализация/десериализация объектов с использованием библиотеки Gson</br>- Интеграция с Allure-TestOps, с Jira</td></tr>
     <tr> <td valign="middle">Тестирование мобильного приложения</br>проект: <a target="_blank" href="https://github.com/Nazilya/diplom-mobile-wiki">diplom-mobile-wiki</a></td><td valign="middle">- Степовой подход для описания Allure Step</br>- Различные файлы конфигураций для запуска тестов</br>- Интеграция с Allure-TestOps, с Jira</td></tr>
+    <tr> <td valign="middle"></td><td valign="middle">Также во всех тестовых проектах дипломной работы настроена интеграция с Allure-TestOps и с Jira</br>Дополнительно настроена отправка уведомления в Telegram о результатах прогона тестов</td></tr>
    </tr>
   </table>
   </br>
