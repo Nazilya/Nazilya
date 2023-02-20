@@ -9,54 +9,38 @@
 <p>В настоящее время изучаю автоматизацию тестирования. Прохожу обучение в QA.GURU – в школе инженеров по автоматизации тестирования на Java.</p> 
 
 <p  align="center">
-  <code><img width="5%" title="Atlassian Jira" src="./images/icons/jira-logo.svg"></code>
-  <code><img width="5%" title="Github" src="./images/icons/GitHub.svg"></code>
-  <code><img width="5%" title="Java" src="./images/icons/java-logo.svg"></code>
-  <code><img width="5%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
-  <code><img width="5%" title="JUnit5" src="./images/icons/junit5-logo.svg"></code>
-  <code><img width="5%" title="Gradle" src="./images/icons/gradle-logo.svg"></code>
-  <code><img width="5%" title="Maven" src="./images/icons/maven.png"></code>
-  <code><img width="5%" title="Selenium" src="./images/icons/selenium.png"></code>
-  <code><img width="5%" title="Selenide" src="./images/icons/selenide-logo.svg"></code>
-  <code><img width="5%" title="REST-Assured" src="./images/icons/rest-assured-logo.svg"></code>
-  <code><img width="5%" title="Allure Report" src="./images/icons/allure-Report-logo.svg"></code>
-  <code><img width="5%" title="Allure TestOps" src="./images/icons/allure-ee-logo.svg"></code>
-  <code><img width="5%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
-  <code><img width="5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
-  <code><img width="5%" title="Docker" src="./images/icons/docker-original.svg"></code>
-  <code><img width="5%" title="AndroidStudio" src="./images/icons/androidstudio.svg"></code>
-  <code><img width="5%" title="Appium" src="./images/icons/appium.svg"></code>
-  <code><img width="5%" title="Appium Inspector" src="./images/icons/appium-inspector.png"></code>
-  <code><img width="5%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
-  
+  <code><img width="4%" title="Atlassian Jira" src="./images/icons/jira-logo.svg"></code>
+  <code><img width="4%" title="Github" src="./images/icons/GitHub.svg"></code>
+  <code><img width="4%" title="Java" src="./images/icons/java-logo.svg"></code>
+  <code><img width="4%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
+  <code><img width="4%" title="JUnit5" src="./images/icons/junit5-logo.svg"></code>
+  <code><img width="4%" title="Gradle" src="./images/icons/gradle-logo.svg"></code>
+  <code><img width="4%" title="Maven" src="./images/icons/maven.png"></code>
+  <code><img width="4%" title="Selenium" src="./images/icons/selenium.png"></code>
+  <code><img width="4%" title="Selenide" src="./images/icons/selenide-logo.svg"></code>
+  <code><img width="4%" title="REST-Assured" src="./images/icons/rest-assured-logo.svg"></code>
+  <code><img width="4%" title="Allure Report" src="./images/icons/allure-Report-logo.svg"></code>
+  <code><img width="4%" title="Allure TestOps" src="./images/icons/allure-ee-logo.svg"></code>
+  <code><img width="4%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
+  <code><img width="4%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
+  <code><img width="4%" title="Docker" src="./images/icons/docker-original.svg"></code>
+  <code><img width="4%" title="AndroidStudio" src="./images/icons/androidstudio.svg"></code>
+  <code><img width="4%" title="Appium" src="./images/icons/appium.svg"></code>
+  <code><img width="4%" title="Appium Inspector" src="./images/icons/appium-inspector.png"></code>
+  <code><img width="4%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
+
 ## Дипломный проект
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
-## Тестирование UI
-:link: Тестовый проект: <a target="_blank" href="https://github.com/Nazilya/diplom-ui-rabota-sber">diplom-ui-rabota-sber</a></br></br>
-:heavy_check_mark: Что особенного:
 
-- [x] Page Object
-- [x] Параметризованные тесты
-- [x] Параметризованная сборка
-- [x] Тестпланы авто- и ручного тестирования
-- [x] Интеграция с Allure-TestOps, с Jira
-
-## Тестирование REST API
-:link: Тестовый проект: <a target="_blank" href="https://github.com/Nazilya/diplom-api-tinkoff">diplom-api-tinkoff</a></br></br>
-:heavy_check_mark: Что особенного:
-
-- [x] Модели получаемых данных описаны с помощью библиотеки Lombok
-- [x] Использованы спецификации
-- [x] Сериализация/десериализация объектов с использованием библиотеки Gson
-- [x] Интеграция с Allure-TestOps, с Jira
-
-## Тестирование мобильного приложения
-:link: Тестовый проект: <a target="_blank" href="https://github.com/Nazilya/diplom-mobile-wiki">diplom-mobile-wiki</a></br></br>
-:heavy_check_mark: Что особенного:
-
-- [x] Степовой подход для описания Allure Step
-- [x] Различные файлы конфигураций для запуска тестов
-- [x] Интеграция с Allure-TestOps, с Jira
+<table width="100%" border='0'>
+   <tr> 
+    <td valign="middle">Тестовый проект</td><td valign="middle">Что особенного</td></tr>
+    <td valign="middle">Тестирование UI</br>проект: <a target="_blank" href="https://github.com/Nazilya/diplom-ui-rabota-sber">diplom-ui-rabota-sber</a></td><td valign="middle">- Page Object</br>- Параметризованные тесты</br>-Параметризованная сборка</br>- Тестпланы авто- и ручного тестирования</br>- Интеграция с Allure-TestOps, с Jira</td></tr>
+    <tr> <td valign="middle">Тестирование REST API</br>проект: <a target="_blank" href="https://github.com/Nazilya/diplom-api-tinkoff">diplom-api-tinkoff</a></td><td valign="middle">- Модели получаемых данных описаны с помощью библиотеки Lombok</br>- Использованы спецификации</br>-Сериализация/десериализация объектов с использованием библиотеки Gson</br>- Интеграция с Allure-TestOps, с Jira</td></tr>
+    <tr> <td valign="middle">Тестирование мобильного приложения</br>проект: <a target="_blank" href="https://github.com/Nazilya/diplom-mobile-wiki">diplom-mobile-wiki</a></td><td valign="middle">- Степовой подход для описания Allure Step</br>- Различные файлы конфигураций для запуска тестов</br>- Интеграция с Allure-TestOps, с Jira</td></tr>
+   </tr>
+  </table>
+  </br>
 
 <a href="https://t.me/NazilyaMullagildina"><img width="2%" title="Telegram" src="./images/icons/Telegram.svg"></a>
 [NazilyaMullagildina](https://t.me/NazilyaMullagildina) </br>
