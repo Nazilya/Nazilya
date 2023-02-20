@@ -24,8 +24,10 @@
   <code><img width="5%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
   <code><img width="5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
   <code><img width="5%" title="Docker" src="./images/icons/docker-original.svg"></code>
-</p>
-
+  <code><img width="5%" title="AndroidStudio" src="./images/icons/androidstudio.svg"></code>
+  <code><img width="5%" title="Appium" src="./images/icons/appium.svg"></code>
+  <code><img width="5%" title="Appium Inspector" src="./images/icons/appium-inspector.png"></code>
+  <code><img width="5%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
 ---
 
 <a href="https://t.me/NazilyaMullagildina"><img width="2%" title="Telegram" src="./images/icons/Telegram.svg"></a>
