@@ -28,7 +28,6 @@
   <code><img width="5%" title="Appium" src="./images/icons/appium.svg"></code>
   <code><img width="5%" title="Appium Inspector" src="./images/icons/appium-inspector.png"></code>
   <code><img width="5%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
----
 
 <a href="https://t.me/NazilyaMullagildina"><img width="2%" title="Telegram" src="./images/icons/Telegram.svg"></a>
 [NazilyaMullagildina](https://t.me/NazilyaMullagildina) </br>
