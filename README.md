@@ -28,6 +28,36 @@
   <code><img width="5%" title="Appium" src="./images/icons/appium.svg"></code>
   <code><img width="5%" title="Appium Inspector" src="./images/icons/appium-inspector.png"></code>
   <code><img width="5%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
+  
+## Дипломный проект
+![This is an image](./images/icons/jira-logo.svg)![This is an image](./images/icons/GitHub.svg)![This is an image](./images/icons/java-logo.svg)![This is an image](./images/icons/IDEA-logo.svg)![This is an image](./images/icons/junit5-logo.svg)![This is an image](./images/icons/maven.png)![This is an image](./images/icons/gradle-logo.svg)![This is an image](./images/icons/selenium.png)![This is an image](./images/icons/selenide-logo.svg)![This is an image](./images/icons/rest-assured-logo.svg)![This is an image](./images/icons/allure-Report-logo.svg)![This is an image](./images/icons/allure-Report-logo.svg)![This is an image](./images/icons/allure-ee-logo.svg)![This is an image](./images/icons/selenoid-logo.svg)![This is an image](./images/icons/jenkins-logo.svg)![This is an image](./images/icons/docker-original.svg)![This is an image](./images/icons/androidstudio.svg)![This is an image](./images/icons/appium.svg)![This is an image](./images/icons/appium-inspector.png)![This is an image](./images/icons/browserstack.svg)</br></br>
+Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
+## Тестирование UI
+:link: Тестовый проект: <a target="_blank" href="https://github.com/Nazilya/diplom-ui-rabota-sber">diplom-ui-rabota-sber</a></br></br>
+:heavy_check_mark: Что особенного:
+
+- [x] Page Object
+- [x] Параметризованные тесты
+- [x] Параметризованная сборка
+- [x] Тестпланы авто- и ручного тестирования
+- [x] Интеграция с Allure-TestOps, с Jira
+
+## Тестирование REST API
+:link: Тестовый проект: <a target="_blank" href="https://github.com/Nazilya/diplom-api-tinkoff">diplom-api-tinkoff</a></br></br>
+:heavy_check_mark: Что особенного:
+
+- [x] Модели получаемых данных описаны с помощью библиотеки Lombok
+- [x] Использованы спецификации
+- [x] Сериализация/десериализация объектов с использованием библиотеки Gson
+- [x] Интеграция с Allure-TestOps, с Jira
+
+## Тестирование мобильного приложения
+:link: Тестовый проект: <a target="_blank" href="https://github.com/Nazilya/diplom-mobile-wiki">diplom-mobile-wiki</a></br></br>
+:heavy_check_mark: Что особенного:
+
+- [x] Степовой подход для описания Allure Step
+- [x] Различные файлы конфигураций для запуска тестов
+- [x] Интеграция с Allure-TestOps, с Jira
 
 <a href="https://t.me/NazilyaMullagildina"><img width="2%" title="Telegram" src="./images/icons/Telegram.svg"></a>
 [NazilyaMullagildina](https://t.me/NazilyaMullagildina) </br>
