@@ -6,7 +6,7 @@
 
 <p>На работе дополнительно прошла курс повышения квалификации сотрудников <a target="_blank" href="https://pointschool.ru/">ПОИНТ</a> (Первый Онлайн ИНститут Тестировщиков). Получила <a target="_blank" href="https://qaschool.ru/school-center/certificate.php?id=22620">сертификат</a></p>
 
-<p>В настоящее время изучаю автоматизацию тестирования. Прохожу обучение в <a target="_blank" href="https://qa.guru">QA.GURU</a> – в школе инженеров по автоматизации тестирования на Java.</p> 
+<p>По автоматизации тестирования прошла обучение в <a target="_blank" href="https://qa.guru">QA.GURU</a> – в школе инженеров по автоматизации тестирования на Java. </p> 
 
 <p  align="center">
   <code><img width="3.5%" title="Atlassian Jira" src="./images/icons/jira-logo.svg"></code>
